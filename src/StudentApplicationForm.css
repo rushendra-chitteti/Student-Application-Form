@@ -1,0 +1,26 @@
+table
+{
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(255, 115, 0);
+    border: 5px solid black;
+}
+table,thead,tbody,tr,th,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: center;
+}
+#application
+{
+    padding-left: 35vmax;
+    padding: 20px;
+}
+#apply
+{
+    margin-bottom: 10vh;
+    height: 40vmax;
+    color: blue;
+}
+  

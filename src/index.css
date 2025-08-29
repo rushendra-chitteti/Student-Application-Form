@@ -1,0 +1,31 @@
+body
+{
+  border: 1em groove #000000;
+  border-radius: 1em;
+  background-color: #ff0000;
+}
+div
+{
+  background-color: rgb(0, 251, 255);
+}
+button
+{
+  color: rgb(255, 255, 255);
+  background-color: #000000;
+  width: 7vw;
+  height: 5vh;
+  border-radius: 1vmax;
+  font-size: large;
+  font-family: 'Times New Roman';
+  font-weight: 900;
+}
+button:hover
+{
+  box-shadow: 1px 2px 20px 6px red;
+  color: rgb(13, 0, 255);
+}
+#form
+{
+  font-weight: bold;
+  font-size:50px;
+}

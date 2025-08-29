@@ -1,0 +1,24 @@
+table
+{
+    background-color: rgb(0, 255, 183);
+    border: 5px solid black;
+}
+#data
+{
+    color: blue;
+}
+td
+{
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-weight: bolder;
+}
+input,select
+{
+    width:40vw;
+    height: 5vh;
+    font-size: x-large;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family:'Times New Roman' ;
+}
